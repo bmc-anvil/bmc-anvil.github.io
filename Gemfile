@@ -27,6 +27,8 @@ gem "minimal-mistakes-jekyll"
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 
 gem "faraday-retry"
+gem "webrick", "~> 1.8"
+gem "json", "~> 2.7"
 
 group :jekyll_plugins do
 end
