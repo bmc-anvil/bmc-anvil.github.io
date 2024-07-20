@@ -1,6 +1,6 @@
 ---
 title: "What is BMC Anvil"
-permalink: /what_is_anvil/
+permalink: /about_anvil/
 excerpt: "Some history about the app"
 header:
   overlay_image: /assets/images/hero-kanban-light.jpeg

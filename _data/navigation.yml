@@ -1,24 +1,45 @@
 # main links
 main:
-  - title: "What is Anvil"
-    url: /what_is_anvil/
-  - title: "Developer Guides"
-    url: /about/
-  - title: "Architecture Guides"
-    url: /about/
+  - title: "Code Guides"
+    url: /about_anvil/
+  - title: "Arch Guides"
+    url: /about_anvil/
   - title: "DevOps Guides"
-    url: /about/
+    url: /about_anvil/
   - title: "About"
-    url: /about/
+    url: /about_anvil/
 
-# navigation for bmc-anvil
+# navigation bars for bmc-anvil
 sidebar-about_anvil:
   - title: "About"
     children:
       - title: "Beginnings of the app"
-        url: /what_is_beginning
+        url: /about_beginning
   - title: "Credits"
     children:
       - title: "Jekill Theme"
-        url: /credits
+        url: /credits_jekill
+      - title: "Icons and Images"
+        url: /credits_imagery
 
+sidebar-developer_guides:
+  - title: "About"
+    children:
+      - title: "Beginnings of the app"
+        url: /about_beginning
+  - title: "Credits"
+    children:
+      - title: "Jekill Theme"
+        url: /credits_jekill
+
+sidebar-architecture_guides:
+  - title: "About"
+    children:
+      - title: "Beginnings of the app"
+        url: /about_beginning
+  - title: "Credits"
+    children:
+      - title: "Jekill Theme"
+        url: /credits_jekill
+
+sidebar-devops_guides:

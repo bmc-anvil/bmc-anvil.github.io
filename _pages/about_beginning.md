@@ -1,6 +1,6 @@
 ---
 title: "What is BMC Anvil"
-permalink: /what_is_beginning/
+permalink: /about_beginning/
 excerpt: "How it all started"
 header:
   overlay_image: /assets/images/hero-kanban-light.jpeg

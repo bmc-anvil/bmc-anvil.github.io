@@ -1,6 +1,6 @@
 ---
 title: "What is BMC Anvil"
-permalink: /credits/
+permalink: /credits_jekill/
 excerpt: "Some credits about the app"
 header:
   overlay_image: /assets/images/hero-kanban-light.jpeg
