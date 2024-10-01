@@ -12,10 +12,10 @@ sidebar:
 toc: true
 ---
 
-This site and the application use some flavour of "free" assets, whether they are completely free or ccBy I will try and list the origin of
-the images / icons / fonts / etc here.
+This site and the application use some flavor of "free" assets, whether they are completely free or ccBy I will try and list the origin of
+the images / icons / fonts / etc. here.
 
-This is not a full list by any means, if you see something missing you would like to be listed here, ping me or make a PR to the site.
+This is not a full list by any means, if you see something missing that you would like to be listed here, ping me or make a PR to the site.
 
 ---
 
@@ -30,17 +30,12 @@ This is not a full list by any means, if you see something missing you would lik
 ## Images
 
 - unsplash:
-    - forge:
-        - [Hannah Gibbs](https://unsplash.com/@hannahmgibbs)
-    - coffee beans:
-        - [Anastasia Zhenina](https://unsplash.com/@disguise_truth)
-    - 404:
-        - [Johannes Krupinski](https://unsplash.com/@hanneskrupinski)
+    - forge: [Hannah Gibbs](https://unsplash.com/@hannahmgibbs)
+    - coffee beans: [Anastasia Zhenina](https://unsplash.com/@disguise_truth)
+    - 404:[Johannes Krupinski](https://unsplash.com/@hanneskrupinski)
 
 ## Icons and PixelArt
 
-- robots:
-    - [robohash](https://robohash.org/): `Robots lovingly delivered by Robohash.org`
-- blacksmith:
-    - [Dmitiry](https://pixabay.com/users/creozavr-2567670/) > [pixel art of blacksmith](https://pixabay.com/vectors/blacksmith-forge-iron-anvil-a-tube-3518750/)
+- robots: [robohash](https://robohash.org/): *`Robots lovingly delivered by Robohash.org`*
+- blacksmith: [Dmitiry](https://pixabay.com/users/creozavr-2567670/) > [pixel art of blacksmith](https://pixabay.com/vectors/blacksmith-forge-iron-anvil-a-tube-3518750/)
   

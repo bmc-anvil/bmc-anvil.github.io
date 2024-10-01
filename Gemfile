@@ -1,4 +1,6 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -13,8 +15,8 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "jekyll"
-gem "minimal-mistakes-jekyll"
+gem 'jekyll'
+gem 'minimal-mistakes-jekyll'
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -26,9 +28,10 @@ gem "minimal-mistakes-jekyll"
 # If you have any other plugins, put them here!
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 
-gem "faraday-retry"
-gem "webrick", "~> 1.8"
-gem "json", "~> 2.7"
+gem 'faraday-retry'
+gem 'json', '~> 2.7'
+gem 'rubocop', group: 'development', require: false
+gem 'webrick', '~> 1.8'
 
 group :jekyll_plugins do
 end

@@ -17,7 +17,8 @@ Bare Metal Code's Anvil is a project management tool as many others, with a twis
 
 This site is not the application site itself, but the "companion" site for the app. A technical set of notes if you will.
 
-The original purpose back in the day, was to build a showcase app, eventually that demo evolved into a proper full featured application.<br>
+The original purpose back in the day, was to build a showcase app.<br>
+Eventually that demo evolved into a proper full-featured application.<br>
 If you want to learn more about the beginnings, check the links to the left.
 
 
@@ -33,6 +34,6 @@ I contains notes on:
 - high level architecture that makes the app turn as a whole
 - module level architecture that determines the approach taken for each service
 - design approach taken in particular for each service
-- bibliography and links in which I based some (or many) decisions
+- bibliography and links on which I based some (or many) decisions
 - why some compromises where made instead of following sometimes a more traditional approach
 
