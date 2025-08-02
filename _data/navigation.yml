@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Dev Setup"
+    url: /dev_setup/dev_setup
   - title: "Code Guides"
     url: /about_anvil/
   - title: "Arch Guides"
@@ -10,6 +12,18 @@ main:
     url: /about_anvil/
 
 # navigation bars for bmc-anvil
+sidebar-developer_setup:
+  - title: "Operating System"
+    children:
+      - title: "Ubuntu"
+        url: /ubuntu
+      - title: "Manjaro"
+        url: /manjaro
+      - title: "OpenSuSE Tumbleweed"
+        url: /opensuse_tumbleweed
+      - title: "Windows / MacOS"
+        url: /win_macos
+
 sidebar-about_anvil:
   - title: "About"
     children:
